@@ -10,7 +10,22 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            var a = 5;
+            
+        }
+
+        public static void Foo1()
+        {
+            var x = 5;
+        }
+
+        public static void Foo2()
+        {
+            var x = 5;
+        }
+
+        public static void Foo3()
+        {
+            var x = 5;
         }
     }
 }
