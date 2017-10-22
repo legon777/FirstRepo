@@ -8,7 +8,9 @@
              d:DesignHeight="300" d:DesignWidth="300">
     <Grid>
         <TextBlock Text="1"/>
-        <TextBlock Text="2"/>
+        <Grid>
+            <TextBlock Text="2"/>
+        </Grid>
         <Button Content="1" VerticalAlignment="Bottom"/>
         <TextBlock Text="2"/>
     </Grid>
