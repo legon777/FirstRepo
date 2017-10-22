@@ -9,5 +9,6 @@
     <Grid>
         <Button Content="Test" VerticalAlignment="Top"/>
         <TextBox Text="Test" VerticalAlignment="Center"/>
+        <Button Content="Bottom" VerticalAlignment="Bottom"/>
     </Grid>
 </UserControl>
