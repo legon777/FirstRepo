@@ -22,7 +22,7 @@ namespace ConsoleApp1
         public static void Foo2()
         {
             var x = 5;
-            var y = 15;
+            var m = 2;
         }
 
         public static void Foo3()
@@ -30,6 +30,7 @@ namespace ConsoleApp1
             var x = 5;
             var y = 20;
             var z = 30;
+            var n = 5;
         }
     }
 }
