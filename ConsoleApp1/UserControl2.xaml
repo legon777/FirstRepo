@@ -14,6 +14,7 @@
         <Grid>
             
         </Grid>
+        <Button Content="Test"/>
         <Button Content="1" VerticalAlignment="Bottom"/>
         <TextBlock Text="2"/>
     </Grid>
