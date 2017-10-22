@@ -16,16 +16,20 @@ namespace ConsoleApp1
         public static void Foo1()
         {
             var x = 5;
+            var y = 10;
         }
 
         public static void Foo2()
         {
             var x = 5;
+            var y = 15;
         }
 
         public static void Foo3()
         {
             var x = 5;
+            var y = 20;
+            var z = 30;
         }
     }
 }
