@@ -9,5 +9,6 @@
     <Grid>
         <TextBlock Text="1"/>
         <Button Content="1" VerticalAlignment="Bottom"/>
+        <TextBlock Text="2"/>
     </Grid>
 </UserControl>
