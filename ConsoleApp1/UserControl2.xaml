@@ -8,5 +8,6 @@
              d:DesignHeight="300" d:DesignWidth="300">
     <Grid>
         <Button Content="1" VerticalAlignment="Bottom"/>
+        <TextBlock Text="2"/>
     </Grid>
 </UserControl>
